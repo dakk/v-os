@@ -1,0 +1,4 @@
+build
+*.o
+bochslog.txt
+*.bin
